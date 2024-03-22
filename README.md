@@ -2,7 +2,7 @@
 Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.
 
 ```
-code.gif
+<img src="https://raw.githubusercontent.com/sefabasnak/sefabasnak/main/code.gif" width="30px"></h2>
 ```
 
 <br><br>
