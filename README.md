@@ -4,9 +4,7 @@ Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cyb
 <br>
 
 <img src="https://raw.githubusercontent.com/sefabasnak/sefabasnak/main/code.gif" width="500px"></h2>
-      
 <br>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefabasnak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sefabasnak) 
 <br>
@@ -22,9 +20,7 @@ Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cyb
 <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <br>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sefabasnak&icon=0&color=12)](https://visitcount.itsvg.in)
 
