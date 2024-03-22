@@ -1,9 +1,8 @@
+<div width="100%" align="center">
 # 👨🏻‍💻 ;Whoami
 Hello friend,<br>I have been working on cybersecurity topics for a long time and developing projects.
-<div width="100%" align="center">
 
 <img src="https://github.com/sefabasnak/sefabasnak/blob/main/code.gif" width="400">
-</div>
 <br>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -29,4 +28,5 @@ Hello friend,<br>I have been working on cybersecurity topics for a long time and
 <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=sefabasnak&icon=0&color=12)](https://visitcount.itsvg.in)
+</div>
 
