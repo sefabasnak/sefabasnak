@@ -1,8 +1,8 @@
 # 👨🏻‍💻 ;Whoami
 Hello friend,<br>I have been working on cybersecurity topics for a long time and developing projects.
+<div width="100%" align="center">
 
 <img src="https://github.com/sefabasnak/sefabasnak/blob/main/code.gif" width="400">
-<div width="100%" align="center">
 </div>
 <br>
 
