@@ -1,5 +1,5 @@
 # 👨🏻‍💻 WHOAMI:
-Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.
+Hello friend,<br>I have been working on cybersecurity topics for a long time and developing projects.
 
 <br>
 
