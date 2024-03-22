@@ -1,11 +1,9 @@
-css oluştur 
-
 # 👨🏻‍💻 WHOAMI:
 Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.
 
 
-<img src="https://raw.githubusercontent.com/sefabasnak/sefabasnak/main/code.gif" width="400px"></h2>
-
+<img src="https://raw.githubusercontent.com/sefabasnak/sefabasnak/main/code.gif" width="500px"></h2>
+      
 
 <br><br>
 
