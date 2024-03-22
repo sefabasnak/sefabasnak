@@ -2,6 +2,8 @@
 Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.
 
 <br><br>
+
+https://github.com/manojuppala/manojuppala/raw/master/assets/code.gif?raw=true
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefabasnak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sefabasnak) 
 
