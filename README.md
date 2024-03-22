@@ -7,7 +7,7 @@ Hello friend,<br>I have been working on cybersecurity topics for a long time and
 <br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefabasnak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sefabasnak) 
-<br>
+<br><br><br>
 <img src="https://github.com/sefabasnak/sefabasnak/blob/main/41221272.jpg" width="30px" color="white"></h2> tech
 <br>
 
