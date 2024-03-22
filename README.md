@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 ;Whoami <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Hello friend, <br> <br> I have been working on cybersecurity topics for a long time and developing projects.
 
-<img src="https://github.com/sefabasnak/sefabasnak/blob/main/code.gif" width="400">
+<img src="https://github.com/sefabasnak/sefabasnak/blob/main/code.gif" width="auto">
 <br>
 <br>
 
