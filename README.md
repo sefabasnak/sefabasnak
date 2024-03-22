@@ -1,88 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
-    <style>
-        /* CSS styles */
-        /* Main container */
-        .container {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
+css oluştur 
 
-        /* Header styles */
-        .header {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
+# 👨🏻‍💻 WHOAMI:
+Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.
 
-        /* Social icons */
-        .social-icons {
-            margin-top: 20px;
-        }
 
-        /* Programming languages badges */
-        .badge {
-            margin: 5px;
-        }
+<img src="https://raw.githubusercontent.com/sefabasnak/sefabasnak/main/code.gif" width="400px"></h2>
 
-        /* GitHub stats section */
-        .github-stats {
-            margin-top: 20px;
-        }
 
-        /* Visit count badge */
-        .visit-count {
-            margin-top: 20px;
-        }
+<br><br>
 
-        /* Quotes section */
-        .quotes {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header -->
-        <h1 class="header">👨🏻‍💻 WHOAMI:</h1>
-        <p>Hello friend,<br><br>I am a cybersecurity researcher. I have been working on cybersecurity topics for a long time and developing projects.</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sefabasnak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sefabasnak) 
 
-        <!-- Social icons -->
-        <div class="social-icons">
-            <a href="https://instagram.com/sefabasnak"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-            <a href="https://linkedin.com/in/sefabasnak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-            <a href="https://medium.com/@sefabasnak"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"></a>
-        </div>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-        <!-- Programming languages badges -->
-        <div class="badges">
-            <img class="badge" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-            <img class="badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
-            <!-- Add more badges as needed -->
-        </div>
+<br><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sefabasnak&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-        <!-- GitHub stats section -->
-        <div class="github-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"><br>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=sefabasnak&theme=tokyonight&hide_border=false"><br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-        </div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-        <!-- Visit count badge -->
-        <div class="visit-count">
-            <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sefabasnak&icon=0&color=12"></a>
-        </div>
+---
+[![](https://visitcount.itsvg.in/api?id=sefabasnak&icon=0&color=12)](https://visitcount.itsvg.in)
 
-        <!-- Quotes section -->
-        <div class="quotes">
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-        </div>
-    </div>
-</body>
-</html>
