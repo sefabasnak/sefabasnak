@@ -30,8 +30,32 @@ I am also the founder and developer of **Threat Proxy**, a cyber threat intellig
 - Attack Surface Management
 - Data Leak & Credential Exposure Monitoring
 - Dark Web & Threat Actor Monitoring
+- Vulnerability Research
+- Responsible Disclosure
 - Security Automation
 - Security Product Development
+
+---
+
+## Security Research & CVE
+
+I actively conduct vulnerability research and responsible disclosure activities.
+
+### CVE-2025-63317
+
+**Todoist v8896 - Cross-Site Scripting Vulnerability**
+
+Discovered and reported a Cross-Site Scripting vulnerability in Todoist v8896 affecting `/api/v1/uploads`.
+
+The issue was related to SVG file upload handling. Uploaded SVG files were not properly sanitized, allowing embedded JavaScript to execute when a user opened the attachment from a task or comment.
+
+- **CVE ID:** [CVE-2025-63317](https://nvd.nist.gov/vuln/detail/CVE-2025-63317)
+- **Product:** Todoist v8896
+- **Vulnerability Type:** Cross-Site Scripting
+- **CWE:** CWE-79
+- **Severity:** Medium
+- **CVSS 3.1 Score:** 5.4
+- **Reference:** [Todoistv8896 Advisory](https://github.com/sefabasnak/Todoistv8896)
 
 ---
 
@@ -57,14 +81,14 @@ Main capabilities include:
 
 ## Tech Stack
 
-**Languages & Scripting**
+### Languages & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Backend, Data & Infrastructure**
+### Backend, Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
@@ -72,7 +96,7 @@ Main capabilities include:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Security & Research**
+### Security & Research
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -87,6 +111,8 @@ Main capabilities include:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sefabasnak&theme=tokyonight&hide_border=false)
 
 </div>
 
