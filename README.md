@@ -1,40 +1,106 @@
-<div width="100%" align="center">
-  
-# 👨🏻‍💻 ;Whoami <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<div align="center">
 
-Hello friend, <br> <br> I have been working on cybersecurity topics for a long time and developing projects.
+# Sefa Basnak
 
-<img src="https://github.com/sefabasnak/sefabasnak/blob/main/code.gif" width="auto">
-<br>
-<br>
+**Cyber Security Specialist • Penetration Tester • Malware Analyst • Ethical Hacker • Product Developer**
 
+I work on cybersecurity, threat intelligence, offensive security and application security.  
+I build security-focused products, automate security operations and develop tools for real-world security needs.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sefabasnak) 
-<br><br><br>
-## 💻TECH 
-<br>
-
-
-## REPO
-
-![](https://github-contributor-stats.vercel.app/api?username=sefabasnak&limit=10&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sefabasnak&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br>
----
-[![](https://visitcount.itsvg.in/api?id=sefabasnak&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
 
+---
+
+## About Me
+
+I am a cybersecurity professional focused on offensive security, cyber threat intelligence and security product development.
+
+My work mainly includes penetration testing, malware analysis, attack surface management, credential leak monitoring, dark web intelligence, application security and security automation.
+
+I am also the founder and developer of **Threat Proxy**, a cyber threat intelligence platform focused on making external threats, leaked data, exposed assets and fraud-related risks more visible and actionable for organizations.
+
+---
+
+## Focus Areas
+
+- Cyber Threat Intelligence
+- Penetration Testing
+- Malware Analysis
+- Application Security
+- Attack Surface Management
+- Data Leak & Credential Exposure Monitoring
+- Dark Web & Threat Actor Monitoring
+- Security Automation
+- Security Product Development
+
+---
+
+## Projects
+
+### Threat Proxy
+
+**Threat Proxy** is a cyber threat intelligence platform designed to help organizations detect and monitor external cyber risks.
+
+Main capabilities include:
+
+- Dark web and hacker forum monitoring
+- Data leak and credential exposure tracking
+- Attack surface visibility
+- Exposed service and critical port monitoring
+- Malware IOC, malicious URL and blacklist IP tracking
+- Phishing and brand abuse monitoring
+- Fraud intelligence and early warning signals
+
+> See the invisible. Act early.
+
+---
+
+## Tech Stack
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Backend, Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Security & Research**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sefabasnak&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sefa%20Basnak-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sefabasnak)
+[![Medium](https://img.shields.io/badge/Medium-@sefabasnak-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sefabasnak)
+
+---
+
+<div align="center">
+
+**Cybersecurity • Threat Intelligence • Offensive Security • Security Products**
+
+</div>
