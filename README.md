@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cyber+Security+Specialist;Penetration+Tester+%7C+Malware+Analyst;Ethical+Hacker+%7C+Product+Developer;Threat+Intelligence+%26+Security+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cyber+Security+Specialist;Penetration+Tester+%7C+Malware+Analyst;Ethical+Hacker+%7C+Product+Developer;Apple+Developer+%7C+Native+iOS;Threat+Intelligence+%26+Security+Automation" />
 
 <br><br>
 
@@ -14,9 +14,13 @@
 <a href="https://medium.com/@sefabasnak">
   <img src="https://img.shields.io/badge/Medium-@sefabasnak-0B1220?style=for-the-badge&logo=medium&logoColor=ffffff" />
 </a>
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-44761">
+  <img src="https://img.shields.io/badge/CVE-2026--44761-0B1220?style=for-the-badge&logo=securityscorecard&logoColor=ef4444" />
+</a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-63317">
   <img src="https://img.shields.io/badge/CVE-2025--63317-0B1220?style=for-the-badge&logo=securityscorecard&logoColor=22c55e" />
 </a>
+<img src="https://img.shields.io/badge/Apple%20Developer-Native%20iOS-0B1220?style=for-the-badge&logo=apple&logoColor=ffffff" />
 
 </div>
 
@@ -42,6 +46,10 @@ My focus is not only finding vulnerabilities, but also building systems that hel
 I build security-focused tools, automate intelligence workflows and develop products around real-world attacker behavior, exposed assets, leaked credentials and fraud signals.
 </p>
 
+<p>
+As an <b>Apple Developer</b>, I also build <b>native iOS applications</b> with Swift.
+</p>
+
 </td>
 <td width="45%" valign="top">
 
@@ -51,9 +59,10 @@ I build security-focused tools, automate intelligence workflows and develop prod
 CTI                  ████████████
 Offensive Security   ███████████░
 Malware Analysis     ██████████░░
-AppSec               ██████████░░
+AppSec / ASPM        ███████████░
 ASM                  ███████████░
 Security Products    ████████████
+Native iOS           ██████████░░
 Automation           ███████████░
 </pre>
 
@@ -70,6 +79,39 @@ Automation           ███████████░
 </div>
 
 <table>
+<tr>
+<td width="35%" valign="top">
+
+<h3>CVE-2026-44761</h3>
+
+<img src="https://img.shields.io/badge/Severity-Critical-dc2626?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/CVSS-9.1-dc2626?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/CWE-1392-ef4444?style=for-the-badge" />
+
+</td>
+<td width="65%" valign="top">
+
+<h3>SAP Commerce Cloud — Insecure Sample Credentials</h3>
+
+<p>
+Discovered and reported a critical vulnerability in SAP Commerce Cloud (HY_COM 2205, COM_CLOUD 2211, 2211-JDK21).
+</p>
+
+<p>
+A sample OAuth2 client with publicly documented credentials could remain in deployed instances. An unauthenticated attacker could use these well-known credentials to obtain a valid access token and invoke APIs to read and modify data.
+</p>
+
+<b>References</b>
+
+<ul>
+  <li><a href="https://www.cve.org/CVERecord?id=CVE-2026-44761">CVE-2026-44761 — CVE.org</a></li>
+  <li><a href="https://me.sap.com/notes/3753495">SAP Security Note 3753495</a></li>
+</ul>
+
+</td>
+</tr>
 <tr>
 <td width="35%" valign="top">
 
@@ -109,8 +151,14 @@ The issue was related to SVG file upload handling in <code>/api/v1/uploads</code
 
 <div align="center">
 
+<h2>Products</h2>
+
+</div>
+
+<div align="center">
+
 <a href="https://threatproxy.com/">
-  <img src="https://threatproxy.com/_next/image?url=%2Flogo.png&w=384&q=75](https://monitor.threatproxy.com/logos/fox.png" width="220" alt="Threat Proxy Logo" />
+  <img src="https://threatproxy.com/_next/image?url=%2Flogo.png&w=384&q=75" width="220" alt="Threat Proxy Logo" />
 </a>
 
 <br><br>
@@ -127,7 +175,7 @@ The issue was related to SVG file upload handling in <code>/api/v1/uploads</code
 <tr>
 <td width="50%" valign="top">
 
-<h3>External Threat Visibility</h3>
+<h3>Threat Proxy — External Threat Visibility</h3>
 
 <p>
 <b>Threat Proxy</b> is a cyber threat intelligence platform designed to make external threats visible, track leaked data, monitor exposed assets and help organizations take early action.
@@ -166,6 +214,70 @@ Threat Proxy
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>Kaus ASPM / DevOps</h3>
+
+<img src="https://img.shields.io/badge/AppSec-Posture%20Management-0B1220?style=flat-square&logo=githubactions&logoColor=38bdf8" />
+
+<p>
+Application Security Posture Management integrated into the development lifecycle. Brings code, dependency and pipeline security findings into a single view and prioritizes them by risk.
+</p>
+
+<pre>
+Kaus ASPM
+├─ CI/CD Pipeline Security
+├─ Code & Dependency Scanning
+├─ Secret Leak Detection
+└─ Risk-Based Prioritization
+</pre>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Kaus Agent</h3>
+
+<img src="https://img.shields.io/badge/AI%20Driven-Pentest-0B1220?style=flat-square&logo=probot&logoColor=22c55e" />
+
+<p>
+AI-driven penetration testing platform. Autonomous agents perform reconnaissance, vulnerability discovery and validation, then produce actionable reports.
+</p>
+
+<pre>
+Kaus Agent
+├─ Autonomous Recon
+├─ Vulnerability Discovery
+├─ Exploit Validation
+└─ Automated Reporting
+</pre>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Rerill</h3>
+
+<img src="https://img.shields.io/badge/iOS-Native%20Budget%20App-0B1220?style=flat-square&logo=apple&logoColor=ffffff" />
+
+<p>
+Native iOS budget app built with Swift. Simple, fast and private personal finance tracking.
+</p>
+
+<pre>
+Rerill
+├─ Native Swift / iOS
+├─ Expense & Income Tracking
+├─ Budget Planning
+└─ Privacy-First
+</pre>
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
@@ -176,14 +288,21 @@ Threat Proxy
 
 <table>
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="20%" valign="top">
 
 <h3>Code</h3>
 
 <img src="https://skillicons.dev/icons?i=python,js,bash,powershell" />
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="20%" valign="top">
+
+<h3>iOS</h3>
+
+<img src="https://skillicons.dev/icons?i=swift,apple" />
+
+</td>
+<td align="center" width="20%" valign="top">
 
 <h3>Data</h3>
 
@@ -194,14 +313,14 @@ Threat Proxy
 <img src="https://img.shields.io/badge/OpenSearch-0B1220?style=flat-square&logo=opensearch&logoColor=38bdf8" />
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="20%" valign="top">
 
 <h3>Infra</h3>
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,cloudflare" />
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="20%" valign="top">
 
 <h3>Workflow</h3>
 
@@ -219,6 +338,7 @@ Threat Proxy
 <img src="https://img.shields.io/badge/OWASP-0B1220?style=for-the-badge&logo=owasp&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/VirusTotal-0B1220?style=for-the-badge&logo=virustotal&logoColor=6366f1" />
 <img src="https://img.shields.io/badge/OpenSearch-0B1220?style=for-the-badge&logo=opensearch&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Xcode-0B1220?style=for-the-badge&logo=xcode&logoColor=147efb" />
 
 </div>
 
