@@ -110,7 +110,7 @@ The issue was related to SVG file upload handling in <code>/api/v1/uploads</code
 <div align="center">
 
 <a href="https://threatproxy.com/">
-  <img src="https://threatproxy.com/_next/image?url=%2Flogo.png&w=384&q=75" width="220" alt="Threat Proxy Logo" />
+  <img src="https://threatproxy.com/_next/image?url=%2Flogo.png&w=384&q=75](https://monitor.threatproxy.com/logos/fox.png" width="220" alt="Threat Proxy Logo" />
 </a>
 
 <br><br>
